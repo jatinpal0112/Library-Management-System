@@ -1,6 +1,4 @@
-# NodeJS Library Management System
-## Don't forget to subscribe my [YouTube Channel](https://www.youtube.com/@codingwithkrpajay?sub_confirmation=1)
-## Home Page
+
 ![alt text](public/images/Screenshot%20from%202023-12-15%2018-46-35.png)
 
 ## Login Form
